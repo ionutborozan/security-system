@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="03582fa8-4ec1-4111-993c-1de225ed6c28" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/frontend/security-system-UI/angular.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/security-system-UI/angular.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/security-system-UI/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/security-system-UI/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/security-system-UI/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/security-system-UI/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/security-system-UI/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/security-system-UI/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/frontend/security-system-UI" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\ws\myRepos" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../tools/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\ws\tools\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aoAlYWSdJIH66hYLAwHI0GzfsD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../useful_files" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+    <property name="ts.external.directory.path" value="C:\ws\myStuffs\security-system\frontend\security-system-UI\node_modules\typescript\lib" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="login.component.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/security-system/frontend/security-system-UI/projects/login/src/lib/login/login.component.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.login.component.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03582fa8-4ec1-4111-993c-1de225ed6c28" name="Default Changelist" comment="" />
+      <created>1587391724304</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587391724304</updated>
+      <workItem from="1587391727036" duration="3952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
